@@ -43,7 +43,7 @@ This dashboard helps the airlines understand their customers better. It helps th
 
 
  - Step 13 : The DashBoard was then published to Tableau Cloud.
- <img width="960" alt="publish" src="https://github.com/rameshkrishnan03/Tableauproject/assets/70803627/bc65b17d-9905-4d6f-a6b6-6300e4fd7af4">
+<img width="960" alt="Publishh" src="https://github.com/rameshkrishnan03/Tableauproject/assets/70803627/53359cbd-4bed-483e-ad39-5df001efdf44">
 
 # Snapshot of Dashboard (Power BI Service)
 
