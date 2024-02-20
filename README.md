@@ -3,8 +3,7 @@
 ### Dashboard Link : https://prod-apnortheast-a.online.tableau.com/#/site/onlinetableauramesh/views/HOUSESALESDASHBOARD/final?:iid=1
 
 ## Problem Statement
-
-This dashboard helps the airlines understand their customers better. It helps the airlines know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them know the average delay & departure time, thus since by using this dashboard they have identified this problem, they can further work on factors responsible for these unwanted delays.
+This Tableau dashboard aims for analyzing house sales data, integrating various sources to provide insights on revenue, transaction numbers, geographic distribution, trends, and performance comparisons. Interactivity features will enable dynamic exploration, ensuring usability for stakeholders to make informed decisions. Deliverables include a functional dashboard and documentation, with success determined by its effectiveness in facilitating decision-making processes.
 
 
 
